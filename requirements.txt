@@ -1,0 +1,16 @@
+openai
+faiss-cpu
+sentence-transformers
+pypdf
+langchain
+flask
+pandas
+pyarrow
+python-dotenv
+tqdm
+loguru
+ruff
+mypy
+ipykernel
+jupyter
+pytest
